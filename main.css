@@ -38,3 +38,14 @@ section {
     border-radius: 10px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+
+.card {
+    width: 30%;
+    border: 2px solid teal;
+    float: left;
+    margin: 5px;
+}
+
+.card img {
+    width: 100%;
+}
